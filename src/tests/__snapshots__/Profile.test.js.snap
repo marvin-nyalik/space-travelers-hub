@@ -1,0 +1,48 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Profile Component Matches the snapshot 1`] = `
+<div>
+  <div
+    class="container"
+  >
+    <div
+      class="missions"
+    >
+      <p
+        class="heading"
+      >
+        My Missions
+      </p>
+      <p
+        class="elem"
+      >
+        mission 1
+      </p>
+      <p
+        class="elem"
+      >
+        mission 2
+      </p>
+    </div>
+    <div
+      class="rocketsCont"
+    >
+      <p
+        class="heading"
+      >
+        My Rockets
+      </p>
+      <p
+        class="elem"
+      >
+        Rocket 1
+      </p>
+      <p
+        class="elem"
+      >
+        Rocket 2
+      </p>
+    </div>
+  </div>
+</div>
+`;

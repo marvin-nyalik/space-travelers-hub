@@ -1,0 +1,54 @@
+.container {
+  display: flex;
+  width: 95vw;
+  margin-top: 2rem;
+  height: auto;
+  justify-content: space-evenly;
+}
+
+.missions {
+  display: flex;
+  width: 45%;
+  height: auto;
+  justify-content: flex-start;
+  border: 1px solid grey;
+  border-radius: 5px;
+  flex-direction: column;
+  align-items: flex-start;
+  padding-left: 5px;
+}
+
+.rocketsCont {
+  display: flex;
+  width: 45%;
+  max-height: 280px;
+  justify-content: flex-start;
+  border: 1px solid grey;
+  border-radius: 5px;
+  flex-direction: column;
+  align-items: flex-start;
+  padding-left: 5px;
+}
+
+.row {
+  border-bottom: 1px solid grey;
+}
+
+.allMissions {
+  display: flex;
+  flex-direction: column;
+}
+
+.heading {
+  font-weight: 500;
+  font-size: 24px;
+}
+
+.elem {
+  border-bottom: 1px solid grey;
+  width: 100%;
+}
+
+p:last-child {
+  border: none;
+}
